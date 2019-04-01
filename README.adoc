@@ -24,3 +24,7 @@ To start the app just type `./mvnw spring-boot:run` in the commandline.
 == Info
 This project uses the https://github.com/thymeleaf/thymeleafsandbox-sse-webflux/blob/6f51fbae29c30d273a1683a46ffead26ae942738/src/main/java/thymeleafsandbox/sseflux/SSEFluxWebConfig.java[WebConfig] from the Thymeleaf sample project to get started.
 If there will be a _thymeleaf-spring5_ spring-boot-starter this config class gets obsolete.
+
+
+For junit tests : 
+https://www.concretepage.com/spring-5/extendwith-springextension-spring-test
